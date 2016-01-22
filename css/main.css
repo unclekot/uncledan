@@ -1,0 +1,16 @@
+.main {
+	background-color: #FEDFC0;
+}
+
+.second-block {
+	text-align: center;
+}
+
+.third-block {
+	height: 110vh;
+	width: 100%;
+	background-image: url(http://swaywater.com/img/flavors-hero.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+    position: relative;
+}
